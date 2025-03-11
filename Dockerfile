@@ -1,3 +1,3 @@
-FROM acweblabs/nginx-php7.4-fpm:latest
+FROM alpine:3.16.3
 
 RUN ls
