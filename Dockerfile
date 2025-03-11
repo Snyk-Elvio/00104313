@@ -1,3 +1,3 @@
-FROM python:3.12
+FROM acweblabs/nginx-php7.4-fpm:latest
 
 RUN ls
