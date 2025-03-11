@@ -1,4 +1,3 @@
-FROM acweblabs/nginx-php7.4-fpm:latest
-
+FROM python:3.12
 
 RUN ls
